@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{56851EA0-7883-4E5D-99A4-89D6FB08E6EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bowtech</RootNamespace>
+    <AssemblyName>Criss++</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>48X48.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BaseLib">
+      <HintPath>..\DLL\BaseLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\DLL\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\DLL\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Qiniu">
+      <HintPath>..\DLL\Qiniu.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTextBox, Version=1.0.2167.35330, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\SyntaxTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.80.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebKitBrowser, Version=0.5.0.0, Culture=neutral, PublicKeyToken=b967213f6d29a3be, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WebKitBrowser.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL71_AddFather_Private.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_AddFather_Private.Designer.cs">
+      <DependentUpon>BL71_AddFather_Private.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_AddNote_Private.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_AddNote_Private.Designer.cs">
+      <DependentUpon>BL71_AddNote_Private.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_AddNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_AddNote.Designer.cs">
+      <DependentUpon>BL71_AddNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Bowtech_Query.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Bowtech_Query.Designer.cs">
+      <DependentUpon>BL71_Bowtech_Query.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_IEAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_IEAddress.Designer.cs">
+      <DependentUpon>BL71_IEAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Lock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Lock.Designer.cs">
+      <DependentUpon>BL71_Lock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Option_IEManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Option_IEManage.Designer.cs">
+      <DependentUpon>BL71_Option_IEManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Option_ChangePWD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Option_ChangePWD.Designer.cs">
+      <DependentUpon>BL71_Option_ChangePWD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Private.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Private.Designer.cs">
+      <DependentUpon>BL71_Private.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Bowtech.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Bowtech.Designer.cs">
+      <DependentUpon>BL71_Bowtech.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Bowtech_Select.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Bowtech_Select.Designer.cs">
+      <DependentUpon>BL71_Bowtech_Select.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Option_DonwnFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Option_DonwnFile.Designer.cs">
+      <DependentUpon>BL71_Option_DonwnFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_WebKit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_WebKit.Designer.cs">
+      <DependentUpon>BL71_WebKit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_HTML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_HTML.Designer.cs">
+      <DependentUpon>BL71_HTML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_ImportExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_ImportExcel.Designer.cs">
+      <DependentUpon>BL71_ImportExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_ImportExcel_Far.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_ImportExcel_Far.Designer.cs">
+      <DependentUpon>BL71_ImportExcel_Far.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Main.Designer.cs">
+      <DependentUpon>BL71_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Option.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Option.Designer.cs">
+      <DependentUpon>BL71_Option.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Option_UpDownLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Option_UpDownLoad.Designer.cs">
+      <DependentUpon>BL71_Option_UpDownLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Option_ConnectDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Option_ConnectDB.Designer.cs">
+      <DependentUpon>BL71_Option_ConnectDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Option_NoteMove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Option_NoteMove.Designer.cs">
+      <DependentUpon>BL71_Option_NoteMove.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Option_NoteVisble.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Option_NoteVisble.Designer.cs">
+      <DependentUpon>BL71_Option_NoteVisble.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_QueryDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_QueryDB.Designer.cs">
+      <DependentUpon>BL71_QueryDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_SQL_InsertUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_SQL_InsertUpdate.Designer.cs">
+      <DependentUpon>BL71_SQL_InsertUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_SQL_Select.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_SQL_Select.Designer.cs">
+      <DependentUpon>BL71_SQL_Select.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BowMode.cs" />
+    <Compile Include="Contronls_Model.cs" />
+    <Compile Include="DecryUtil.cs" />
+    <Compile Include="ListItem.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLite.cs" />
+    <Compile Include="StateClass.cs" />
+    <Compile Include="BL71_AddFather.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_AddFather.Designer.cs">
+      <DependentUpon>BL71_AddFather.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL71_Option_AddFont.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BL71_Option_AddFont.Designer.cs">
+      <DependentUpon>BL71_Option_AddFont.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BL71_AddFather_Private.resx">
+      <DependentUpon>BL71_AddFather_Private.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_AddNote_Private.resx">
+      <DependentUpon>BL71_AddNote_Private.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_AddNote.resx">
+      <DependentUpon>BL71_AddNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Bowtech_Query.resx">
+      <DependentUpon>BL71_Bowtech_Query.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_IEAddress.resx">
+      <DependentUpon>BL71_IEAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Lock.resx">
+      <DependentUpon>BL71_Lock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Option_IEManage.resx">
+      <DependentUpon>BL71_Option_IEManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Option_ChangePWD.resx">
+      <DependentUpon>BL71_Option_ChangePWD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Private.resx">
+      <DependentUpon>BL71_Private.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Bowtech.resx">
+      <DependentUpon>BL71_Bowtech.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Bowtech_Select.resx">
+      <DependentUpon>BL71_Bowtech_Select.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Option_DonwnFile.resx">
+      <DependentUpon>BL71_Option_DonwnFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_WebKit.resx">
+      <DependentUpon>BL71_WebKit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_HTML.resx">
+      <DependentUpon>BL71_HTML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_ImportExcel.resx">
+      <DependentUpon>BL71_ImportExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_ImportExcel_Far.resx">
+      <DependentUpon>BL71_ImportExcel_Far.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Main.resx">
+      <DependentUpon>BL71_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Option.resx">
+      <DependentUpon>BL71_Option.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Option_UpDownLoad.resx">
+      <DependentUpon>BL71_Option_UpDownLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Option_ConnectDB.resx">
+      <DependentUpon>BL71_Option_ConnectDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Option_NoteMove.resx">
+      <DependentUpon>BL71_Option_NoteMove.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Option_NoteVisble.resx">
+      <DependentUpon>BL71_Option_NoteVisble.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_QueryDB.resx">
+      <DependentUpon>BL71_QueryDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_SQL_InsertUpdate.resx">
+      <DependentUpon>BL71_SQL_InsertUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_SQL_Select.resx">
+      <DependentUpon>BL71_SQL_Select.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="BL71_AddFather.resx">
+      <DependentUpon>BL71_AddFather.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BL71_Option_AddFont.resx">
+      <DependentUpon>BL71_Option_AddFont.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="48X48.ico" />
+    <None Include="Resources\ooopic_1489585497.png" />
+    <None Include="Resources\ooopic_1489666606.png" />
+    <None Include="Resources\ooopic_1489666596.png" />
+    <None Include="Resources\ooopic_1489585539.png" />
+    <None Include="Resources\13905_2.png" />
+    <None Include="Resources\13905.png" />
+    <None Include="Resources\BTN.png" />
+    <None Include="Resources\ooopic_1489759004.png" />
+    <None Include="Resources\ooopic_1489585449_2.png" />
+    <None Include="Resources\ooopic_1489585449.png" />
+    <None Include="Resources\ooopic_1489585655-2.png" />
+    <None Include="Resources\ooopic_1489666254.png" />
+    <None Include="Resources\ooopic_1489759001.png" />
+    <None Include="Resources\ooopic_1489759004 %281%29.png" />
+    <None Include="Resources\ooopic_1489758990.png" />
+    <None Include="Resources\ooopic_1489758987.png" />
+    <None Include="Resources\ooopic_1489758994.png" />
+    <None Include="Resources\ooopic_1489758986.png" />
+    <None Include="Resources\ooopic_1489585162.png" />
+    <None Include="Resources\ooopic_1489585223.png" />
+    <None Include="Resources\ooopic_1489585243.png" />
+    <None Include="Resources\ooopic_1489585232.png" />
+    <None Include="Resources\ooopic_1489584868.png" />
+    <None Include="Resources\ooopic_1489585561.png" />
+    <None Include="Resources\ooopic_1489585556.png" />
+    <None Include="Resources\ooopic_1489666150.png" />
+    <None Include="Resources\ooopic_1489666166.png" />
+    <None Include="Resources\ooopic_1489666562.png" />
+    <None Include="Resources\ooopic_1489666559.png" />
+    <None Include="Resources\ooopic_1489666551.png" />
+    <None Include="Resources\ooopic_1489666564.png" />
+    <None Include="Resources\ooopic_1489585644.png" />
+    <None Include="Resources\ooopic_1489585467.png" />
+    <None Include="Resources\ooopic_1489585466.png" />
+    <None Include="Resources\ooopic_1489585464.png" />
+    <None Include="Resources\ooopic_1489585461.png" />
+    <None Include="Resources\ooopic_1489585655.png" />
+    <None Include="Resources\ooopic_1489585488.png" />
+    <None Include="Resources\ooopic_1489585315.png" />
+    <None Include="Resources\ooopic_1489585501.png" />
+    <None Include="Resources\ooopic_1489585550.png" />
+    <None Include="Resources\ooopic_1489585648.png" />
+    <None Include="Resources\ooopic_1489585542.png" />
+    <None Include="Resources\ooopic_1489585493.png" />
+    <None Include="Resources\ooopic_1489585447.png" />
+    <None Include="Resources\ooopic_1489585282.png" />
+    <None Include="Resources\ooopic_1489585290.png" />
+    <None Include="Resources\BaiDuFanYi.png" />
+    <None Include="Resources\20 %281%29.png" />
+    <None Include="Resources\12 %281%29.png" />
+    <None Include="Resources\MyNewHead.png" />
+    <None Include="Resources\MyHeadNew.PNG" />
+    <None Include="Resources\Log.ico" />
+    <None Include="bin\Debug\269.ico" />
+    <None Include="Resources\down2.png" />
+    <None Include="Resources\down.png" />
+    <None Include="Resources\Query1.png" />
+    <None Include="Resources\Query.png" />
+    <None Include="Resources\Find.png" />
+    <None Include="Resources\lock2.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\key1.png" />
+    <None Include="Resources\key.png" />
+    <None Include="Resources\url.png" />
+    <None Include="Resources\Father.png" />
+    <None Include="Resources\Content.png" />
+    <None Include="Resources\Catalog.png" />
+    <None Include="Resources\Bl71_BlackDownFrom_smill.png" />
+    <None Include="Resources\SQL4.png" />
+    <None Include="Resources\SQL3.png" />
+    <None Include="Resources\SQL2.png" />
+    <None Include="Resources\SQL1.png" />
+    <None Include="Resources\MyHeadTo.png" />
+    <None Include="Resources\EXCEL_SP2.png" />
+    <None Include="Resources\EXCEL_SP1.png" />
+    <None Include="Resources\EXCEL_2.png" />
+    <None Include="Resources\EXCEL_1.png" />
+    <None Include="Resources\shegnCheng.png" />
+    <None Include="Resources\delete1.png" />
+    <None Include="Resources\b4_2.png" />
+    <None Include="Resources\b3_2.png" />
+    <None Include="Resources\left2.png" />
+    <None Include="Resources\NO_2.png" />
+    <None Include="Resources\home2.png" />
+    <None Include="Resources\b5-3.png" />
+    <None Include="Resources\left3.png" />
+    <None Include="Resources\b5_4.png" />
+    <None Include="Resources\Inner.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\ALL.png" />
+    <None Include="Resources\RightJoin.png" />
+    <None Include="Resources\leftJoin.png" />
+    <None Include="Resources\right.png" />
+    <None Include="Resources\left.png" />
+    <None Include="Resources\gang.png" />
+    <None Include="Resources\shengCheng.png" />
+    <None Include="Resources\shegnCheng1.png" />
+    <None Include="Resources\play2.png" />
+    <None Include="Resources\play1.png" />
+    <None Include="Resources\file.png" />
+    <None Include="Resources\b6.png" />
+    <None Include="Resources\b5_3.png" />
+    <None Include="Resources\b5.png" />
+    <None Include="Resources\b4.png" />
+    <None Include="Resources\b3.png" />
+    <None Include="Resources\b2.png" />
+    <None Include="Resources\b1.png" />
+    <None Include="Resources\USER.png" />
+    <None Include="Resources\SFYZ.png" />
+    <None Include="Resources\PASSWORD.png" />
+    <None Include="Resources\OK.png" />
+    <None Include="Resources\NO.png" />
+    <None Include="Resources\FUQMC.png" />
+    <None Include="Resources\sys0.png" />
+    <None Include="Resources\sys4.png" />
+    <None Include="Resources\sys3.png" />
+    <None Include="Resources\sys2.png" />
+    <None Include="Resources\sys1.png" />
+    <None Include="Resources\Bl71_BlackDownFrom.png" />
+    <None Include="Resources\Bl71_BlackDownUSE.png" />
+    <None Include="Resources\Bl71_BlackDown.png" />
+    <None Include="Resources\Bl71_Title.jpg" />
+    <None Include="Resources\SYSTEM_2.png" />
+    <None Include="Resources\SYSTEM_1.png" />
+    <None Include="Resources\app02.png" />
+    <None Include="Resources\MAIN_Q2.png" />
+    <None Include="Resources\MAIN_Q1.png" />
+    <None Include="Resources\MAIN_2.png" />
+    <None Include="Resources\MAIN_1.png" />
+    <None Include="Resources\pfc2.png" />
+    <None Include="Resources\pfc1.png" />
+    <None Include="Resources\PFX1.png" />
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CDO">
+      <Guid>{CD000000-8B95-11D1-82DB-00C04FB1625D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

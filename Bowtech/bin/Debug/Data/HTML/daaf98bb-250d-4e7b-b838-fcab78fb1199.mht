@@ -1,0 +1,208 @@
+thread-index: AdCC5vAk27uDY7bVS+mDVl/xfFFysA==
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_01D08329.FE56BEE0"
+Content-Location: http://mp.weixin.qq.com/debug
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+
+���� MIME ��ʽ�Ķ෽�ʼ���
+
+------=_NextPart_000_0001_01D08329.FE56BEE0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+DQo8aHR0cDovL21wLndlaXhpbi5xcS5jb20+IA0KDQoNCuW+ruS/oeWFrOS8l+W5s+WPsOaOpeWP
+o+iwg+ivleW3peWFtw0KDQrmraTlt6Xlhbfml6jlnKjluK7liqnlvIDlj5HogIXmo4DmtYvosIPn
+lKjjgJDlvq7kv6HlhazkvJflubPlj7DlvIDlj5HogIVBUEnjgJHml7blj5HpgIHnmoTor7fmsYLl
+j4LmlbDmmK/lkKbmraPnoa7vvIzmj5DkuqTnm7jlhbPkv6Hmga/lkI4NCuWPr+iOt+W+l+acjeWK
+oeWZqOeahOmqjOivgee7k+aePy9kaXY+DQoNCjEuCeS9v+eUqOivtOaYju+8Py9iPg0KMi4J77w/
+77yJ6YCJ5oup5ZCI6YCC55qE5o6l5Y+j44A/L2xpPg0KMy4J77w/77yJ57O757uf5Lya55Sf5oiQ
+6K+l5o6l5Y+j55qE5Y+C5pWw6KGo77yM5oKo5Y+v5Lul55u05o6l5Zyo5paH5pys5qGG5YaF5aGr
+5YWl5a+55bqU55qE5Y+C5pWw5YC844CC77yI57qi6Imy5pif5Y+3DQrooajnpLror6XlrZfmrrXl
+v4XloavvvIkNCjQuCe+8P++8ieeCueWHu+ajgOafpemXrumimOaMiemSru+8jOWNs+WPr+W+l+WI
+sOebuOW6lOeahOiwg+ivleS/oeaBr+OAPy9saT4NCg0K5LiA44CB5o6l5Y+j57G75Z6L77yaDQoN
+CuS6jOOAgeaOpeWPo+WIl+ihqO+8mg0K5pa55rOV77yaR0VUDQrkuInjgIHlj4LmlbDliJfooajv
+vJoNCg0KDQotLT4NCg0KKgnlhbPkuo7ohb7orq8gPGh0dHA6Ly93d3cudGVuY2VudC5jb20vemgt
+Y24vaW5kZXguc2h0bWw+ICB8ICANCioJ5pyN5Yqh5Y2P6K6uDQo8aHR0cDovL21wLndlaXhpbi5x
+cS5jb20vY2dpLWJpbi9yZWFkdGVtcGxhdGU/dD13eG0tYWdyZWVtZW50JnR5cGU9aW5mbz8NCj16
+aF9DTj4gIHwgDQoqCeWuouacjeS4reW/gyA8aHR0cDovL2tmLnFxLmNvbS9zcGVjaWFsX2F1dG8v
+d2VpeGluLmh0bWw+ICB8IA0KKgnlnKjnur/lrqLmnI0NCjxodHRwOi8vY3JtMi5xcS5jb20vcGFn
+ZS9wb3J0YWxwYWdlL3dwYS5waHA/dWluPTQwMDEyMzQ1JmY9MSZ0eT0xJmFwPTAwMA0KMDExOjQw
+MDc5Mjp8ZjpHZ3pwdDE+IA0KDQpDb3B5cmlnaHQgwqkgMjAxMi0yMDE1IFRlbmNlbnQuIEFsbCBS
+aWdodHMgUmVzZXJ2ZWQuDQo=
+
+------=_NextPart_000_0001_01D08329.FE56BEE0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html><html><head><meta charset="utf-8" /><title>微信公众平台接口调试工具</title><link href="/debug/zh_CN/htmledition/style/page/page_debug1f5859.css" rel="stylesheet" type="text/css" />        <link rel="shortcut icon" href="/debug/zh_CN/htmledition/images/icon/common/favicon20f79b.ico" type="image/x-icon"><head><body><div class="head" id="header"><div class="head_box"><div class="inner wrp"><h1 class="logo"><a href="http://mp.weixin.qq.com" title="微信公众平台"></a></h1></div></div></div><div id="main" class="main"><h1>微信公众平台接口调试工具</h1><div class="panel"><div id="description" class="des">此工具旨在帮助开发者检测调用【微信公众平台开发者API】时发送的请求参数是否正确，提交相关信息后可获得服务器的验证结果</div><ol id="manual" class="manual"><li><b>使用说明：</b></li><li>（1）选择合适的接口。</li><li>（2）系统会生成该接口的参数表，您可以直接在文本框内填入对应的参数值。（红色星号表示该字段必填）</li><li>（3）点击检查问题按钮，即可得到相应的调试信息。</li></ol><div id="content" class="content"><div id="typeSelectorDiv" class="frm_control_group"><label class="frm_label">一、接口类型：</label><div class="frm_controls"><select id="typeSelector" class="frm_input_box"></select></div></div><div id="formSelectorDiv" class="frm_control_group"><label class="frm_label">二、接口列表：</label><div class="frm_controls"><select id="formSelector" class="frm_input_box"></select><span id="methodType" class="frm_tips">方法：GET</span></div></div>                          <div id="formContent" class="frm_control_group"><label>三、参数列表：</label><br /><br /><div id="formContainer"></div></div></div><div id="resultContainer"></div><div class="iframe-container hide">                    <! --<iframe frameborder="no" scrolling="no" marginheight="0" marginwidth="0" id="result-iframe" name="result-iframe" src="/debug/cgi-bin/apiinfo?name=gettoken&t=wap-apiresult" ></iframe>--><iframe frameborder="no" scrolling="no" marginheight="0" marginwidth="0" id="result-iframe" name="result-iframe"></iframe></div></div></div><div class="footer"><ul class="footer-places"><li class="footer-about"><a target="_blank" href="http://www.tencent.com/zh-cn/index.shtml">关于腾讯</a>&nbsp;|&nbsp; </li><li class="footer-policy"> <a target="_blank" href="http://mp.weixin.qq.com/cgi-bin/readtemplate?t=wxm-agreement&type=info&lang=zh_CN">服务协议</a>&nbsp;|&nbsp;</li><li class="footer-contactus"><a target="_blank" href="http://kf.qq.com/special_auto/weixin.html">客服中心</a>&nbsp;|&nbsp;</li><li class="footer-online"><a href="http://crm2.qq.com/page/portalpage/wpa.php?uin=40012345&f=1&ty=1&ap=000011:400792:|f:Ggzpt1" target="_blank">在线客服</a></li></ul><div style="clear:both">Copyright&nbsp;© 2012-2015 Tencent. All Rights Reserved.</div></div><script type="text/template" id="result-iframe-template">
+<div class="iframe-container">
+<iframe frameborder="no" scrolling="no" marginheight="0" marginwidth="0" id="result-iframe" name="result-iframe" src="wap-apiresult.html" ></iframe> 
+</div>
+</script><script type="text/template" id="type-option-template">
+<# _.each(forms, function(form, index) { #>
+<# if(form.show_name) { #>
+<option value="<#= index #>"><#= form.show_name #></option>
+<# } #>
+<# }); #>
+</script><script type="text/template" id="form-option-template">
+<# _.each(forms, function(form, index) { #>
+<option value="<#= index #>"><#= form.show_name #></option>
+<# }); #>
+</script><script type="text/template" id="elem-template">
+<# if(type === "content") { #>
+<textarea cols=70 rows=15 <#= attrString #> ></textarea>
+<# } else if(type === "file") { #>
+<input type="file" <#= attrString #> />
+<# } else if(type === "selector") { #>
+<select <#= attrString #> >
+<# _.each(typesArray, function(type) { #>
+<option value="<#= type #>"><#= type #></option>
+<# }); #>
+</select>
+<# } else { #>
+<input type="text" <#= attrString #>/>
+<# } #>
+</script><script type="text/template" id="args-template">
+<# _.each(args, function(item) { #>
+<div class="inputDiv">
+<# if(item.required == true) { #>
+<span class="red">*</span> 
+<# } else { #>
+<span style="color:#eeeeee">*</span> 
+<# } #>
+<span class="name"><#= item.name #> : </span>
+<#= item.inputElem #>
+<span class="tips"><#= item.tips #></span>
+<span class="errMsg"></span>
+<br />
+</div>
+<# }); #>
+</script><script type="text/template" id="textarea-template">
+<div class="textareaDiv">
+<span class="red">*</span> 
+<span class="tips">直接填写包体: </span>
+<textarea cols="100" rows="10"></textarea>
+</div>
+</script><script type="text/template" id="form-template">
+<form method="POST" action-target="<#= form.name #>" target="result-iframe" form-method="<#= form.method #>" form-type="<#= form.type #>" return-type="<#= form.return_type #>">
+<#= formContent #>
+<input type="submit" class="unsubmit" id="submit" value="检查问题" />
+</form>
+</script><script type="text/template" id="result-template">
+<div class="resultContainer">
+<div class="bannerDiv">
+<a href="javascript:void(0)" class="banner" title="收起/展开当前显示结果">
+ <#= typeName #>: <#= formName #>
+</a>
+<a href="javascript:void(0)" class="closeButton icon16_common close_gray" title="删除当前结果"></a>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="result">
+<dl class="url">
+<dt class="title">请求地址：</dt>
+<dd class="content" id="request_url">
+<#= request_url #>
+</dd>
+</dl>
+<# if(encrypt_type === '0') { #>
+<dl class="back_result">
+<dt class="title">返回结果:</span>
+<dd class="content">
+<ul class="status content">
+<li><#= status_line #></li>
+</ul>
+<ul class="header">
+<# _.each(headers, function(header) { #>
+<li><#= header #></li>
+<# }); #>
+</ul>
+<ul class="body">
+<li>
+                                    <code><#= body #></code>
+</li>
+</ul>
+</dd>
+</dl>
+<dl class="hint">
+<dt class="title">提示: </dt>
+<dd class="content">
+<# if(hint === "请求成功") { #>
+<span class="green"><#= hint #></span>
+<# } else { #>
+<span class="red"><#= hint #></span>
+<# } #>
+</dd>
+</dl>
+<# } else { #>
+<dl class="hint">
+<dt class="title">成功或失败: </dt>
+<dd class="content">
+<# if(hint === "Success") { #>
+<span class="green"><#= hint #></span>
+<# } else { #>
+<span class="red"><#= hint #></span>
+<# } #>&nbsp;
+</dd>
+</dl>
+<# if(reason != "") { #>
+<dl class="hint">
+<dt class="title">错误原因: </dt>
+<dd class="content">
+<span class="red"><#= reason #>&nbsp;</span>
+</dd>
+</dl>
+<# } #>
+<dl class="status_line">
+<dt class="title">状态码：</dt>
+<dd class="content">
+<ul class="status content">
+<li><#= status_line #>&nbsp;</li>
+</ul>
+</dd>
+</dl>
+<dl class="http_headers">
+<dt class="title">Headers：</dt>
+<dd class="content">
+<ul class="header">
+<# _.each(headers, function(header) { #>
+<li><#= header #></li>
+<# }); #>
+</ul>&nbsp;
+</dd>
+</dl>
+<dl class="back_result">
+<dt class="title">解密前xml:</span>
+<dd class="content">
+<ul class="body">
+<li>
+                                    <code><#= body #></code>&nbsp;
+</li>
+</ul>
+</dd>
+</dl>
+<dl class="back_result">
+<dt class="title">解密后xml:</span>
+<dd class="content">
+<ul class="body">
+<li>
+                                    <code><#= decrypt_xml #></code>&nbsp;
+</li>
+</ul>
+</dd>
+</dl>
+<# } #>
+</div>
+</div>
+</script><script type="text/javascript" src="/debug/zh_CN/htmledition/js/lib/jquery-1.9.11f5859.js"></script><script type="text/javascript" src="/debug/zh_CN/htmledition/js/lib/underscore-min1f5859.js"></script>        <script type="text/javascript" src="/debug/zh_CN/htmledition/js/src217d3a.js"></script><script type="text/javascript">
+seajs.use(["app.js"], function(app) {
+var configs = [ { "show_name": "基础支持", "class_name": "api_info", "content": [ { "name": "https://api.weixin.qq.com/cgi-bin/token", "type": "args", "method": "GET", "return_type": "json", "show_name": "获取access_token接口 /token", "args": [ { "name": "grant_type", "diabled": "client_credential", "required": true, "tips": "获取access_token填写client_credential", "method": "GET", "type": "string" }, { "name": "appid", "diabled": "", "required": true, "tips": "填写appid", "method": "GET", "type": "string" }, { "name": "secret", "diabled": "", "required": true, "tips": "填写appsecret", "method": "GET", "type": "string" } ] }, { "name": "http://file.api.weixin.qq.com/cgi-bin/media/upload", "type": "args", "method": "POST", "return_type": "json", "show_name": "多媒体文件上传接口 /media/upload", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "type", "diabled": "image,voice,video,thumb", "required": true, "tips": "媒体文件类型，分别有图片（image）、语音（voice）、视频（video）和缩略图（thumb）", "method": "GET", "type": "selector" }, { "name": "media", "diabled": "", "required": true, "tips": "form-data中媒体文件标识，有filename、filelength、content-type等信息", "method": "POST", "type": "file" } ] }, { "name": "http://file.api.weixin.qq.com/cgi-bin/media/get", "type": "args", "method": "GET", "return_type": "json", "show_name": "下载多媒体文件接口 /media/get", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "media_id", "diabled": "", "required": true, "tips": "媒体文件id", "method": "GET", "type": "string" } ] } ] }, { "show_name": "向用户发送消息", "class_name": "api_info", "content": [ { "name": "https://api.weixin.qq.com/cgi-bin/message/custom/send", "type": "args", "method": "POST", "return_type": "json", "show_name": "发送客服消息接口 /message/custom/send", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] } ] }, { "show_name": "用户管理", "class_name": "api_info", "content": [ { "name": "https://api.weixin.qq.com/cgi-bin/user/get", "type": "args", "method": "GET", "return_type": "json", "show_name": "获取关注者列表接口 /user/get", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "next_openid", "diabled": "", "required": false, "tips": "获取关注用户列表偏移量，不填默认从头开始拉取", "method": "GET", "type": "string" } ] }, { "name": "https://api.weixin.qq.com/cgi-bin/user/info", "type": "args", "method": "GET", "return_type": "json", "show_name": "获取用户基本信息接口 /user/info", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "openid", "diabled": "", "required": true, "tips": "目标用户的OPNEID", "method": "GET", "type": "string" } ] }, { "name": "https://api.weixin.qq.com/cgi-bin/groups/get", "type": "args", "method": "GET", "return_type": "json", "show_name": "查询分组接口 /groups/get", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true } ] }, { "name": "https://api.weixin.qq.com/cgi-bin/groups/create", "type": "args", "method": "POST", "return_type": "json", "show_name": "创建分组接口 /groups/create", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/cgi-bin/groups/update", "type": "args", "method": "POST", "return_type": "json", "show_name": "修改分组名接口 /groups/update", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/cgi-bin/groups/members/update", "type": "args", "method": "POST", "return_type": "json", "show_name": "移动用户分组接口 /groups/members/update", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/cgi-bin/groups/getid", "type": "args", "method": "POST", "return_type": "json", "show_name": "查询用户分组id接口 /groups/getid", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] } ] }, { "show_name": "自定义菜单", "class_name": "api_info", "content": [ { "name": "https://api.weixin.qq.com/cgi-bin/menu/create", "type": "args", "method": "POST", "return_type": "json", "show_name": "自定义菜单创建接口 /menu/create", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/cgi-bin/menu/get", "type": "args", "method": "GET", "return_type": "json", "show_name": "自定义菜单查询接口 /menu/get", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true } ] }, { "name": "https://api.weixin.qq.com/cgi-bin/menu/delete", "type": "args", "method": "GET", "return_type": "json", "show_name": "自定义菜单删除接口 /menu/delete", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true } ] } ] }, { "show_name": "推广支持", "class_name": "api_info", "content": [ { "name": "https://api.weixin.qq.com/cgi-bin/qrcode/create", "type": "args", "method": "POST", "return_type": "json", "show_name": "创建二维码ticket接口 /qrcode/create", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://mp.weixin.qq.com/cgi-bin/showqrcode", "type": "args", "method": "GET", "return_type": "json", "show_name": "换取二维码 /showqrcode", "args": [ { "name": "ticket", "diabled": "", "required": true, "tips": "获取的二维码ticket", "method": "GET", "type": "string" } ] } ] }, { "show_name": "消息接口调试", "class_name": "callback_info", "content": [ { "name": "文本消息", "show_name": "文本消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "text", "required": true, "tips": "消息类型（文本消息为 text ）", "method": "GET", "type": "string" }, { "name": "Content", "diabled": "", "required": true, "tips": "消息类型（文本消息内容）", "method": "GET", "type": "string" }, { "name": "MsgId", "diabled": "", "required": true, "tips": "消息类型（消息id，64位整型）", "method": "GET", "type": "num" } ] }, { "name": "图片消息", "show_name": "图片消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "image", "required": true, "tips": "消息类型（图片消息为 image ）", "method": "GET", "type": "string" }, { "name": "PicUrl", "diabled": "", "required": true, "tips": "图片链接", "method": "GET", "type": "string" }, { "name": "MsgId", "diabled": "", "required": true, "tips": "消息id，64位整型", "method": "GET", "type": "num" } ] }, { "name": "语音消息", "show_name": "语音消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "voice", "required": true, "tips": "消息类型（语音消息为 voice ）", "method": "GET", "type": "string" }, { "name": "MediaId", "diabled": "", "required": true, "tips": "语音消息媒体id，可以调用相应接口拉取数据。", "method": "GET", "type": "string" }, { "name": "Format", "diabled": "", "required": true, "tips": "语音格式，如amr，speex等", "method": "GET", "type": "string" }, { "name": "MsgId", "diabled": "", "required": true, "tips": "消息id，64位整型", "method": "GET", "type": "num" } ] }, { "name": "视频消息", "show_name": "视频消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "video", "required": true, "tips": "消息类型（视频消息为 video ）", "method": "GET", "type": "string" }, { "name": "MediaId", "diabled": "", "required": true, "tips": "视频消息媒体id，可以调用相应接口拉取数据。", "method": "GET", "type": "string" }, { "name": "ThumbMediaId", "diabled": "", "required": true, "tips": "视频消息缩略图id，可以调用相应接口拉取数据。", "method": "GET", "type": "string" }, { "name": "MsgId", "diabled": "", "required": true, "tips": "消息id，64位整型", "method": "GET", "type": "num" } ] }, { "name": "地理位置消息", "show_name": "地理位置消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "location", "required": true, "tips": "消息类型（地理消息为 location ）", "method": "GET", "type": "string" }, { "name": "Location_X", "diabled": "", "required": true, "tips": "地理位置维度", "method": "GET", "type": "num" }, { "name": "Location_Y", "diabled": "", "required": true, "tips": "地理位置精度", "method": "GET", "type": "num" }, { "name": "Scale", "diabled": "", "required": true, "tips": "地图缩放大小", "method": "GET", "type": "num" }, { "name": "Label", "diabled": "", "required": true, "tips": "地理位置信息", "method": "GET", "type": "string" }, { "name": "MsgId", "diabled": "", "required": true, "tips": "消息id，64位整型", "method": "GET", "type": "num" } ] }, { "name": "链接消息", "show_name": "链接消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "link", "required": true, "tips": "消息类型（地理消息为 link ）", "method": "GET", "type": "string" }, { "name": "Title", "diabled": "", "required": true, "tips": "消息标题", "method": "GET", "type": "string" }, { "name": "Description", "diabled": "", "required": true, "tips": "消息描述", "method": "GET", "type": "string" }, { "name": "Url", "diabled": "", "required": true, "tips": "消息链接", "method": "GET", "type": "string" }, { "name": "MsgId", "diabled": "", "required": true, "tips": "消息id，64位整型", "method": "GET", "type": "num" } ] }, { "name": "事件消息", "show_name": "事件消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "event", "required": true, "tips": "消息类型（地理消息为 event ）", "method": "GET", "type": "string" }, { "name": "Event", "diabled": "", "required": true, "tips": "事件类型，有ENTER(进入会话)和LOCATION(地理位置)", "method": "GET", "type": "string" }, { "name": "Latitude", "diabled": "", "required": false, "tips": "地理位置维度，事件类型为LOCATION的时存在", "method": "GET", "type": "num" }, { "name": "Longitude", "diabled": "", "required": false, "tips": "地理位置经度，事件类型为LOCATION的时存在", "method": "GET", "type": "num" }, { "name": "Precision", "diabled": "", "required": false, "tips": "地理位置精度，事件类型为LOCATION的时存在", "method": "GET", "type": "num" }, { "name": "MsgId", "diabled": "", "required": true, "tips": "消息id，64位整型", "method": "GET", "type": "num" } ] } ] }, { "show_name": "硬件接入api接口调试", "class_name": "api_info", "content": [ { "name": "https://api.weixin.qq.com/device/getqrcode", "type": "args", "method": "GET", "return_type": "json", "show_name": "设备授权-获取deviceid和二维码 /device/getqrcode", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true } ] }, { "name": "https://api.weixin.qq.com/device/authorize_device", "type": "args", "method": "POST", "return_type": "json", "show_name": "设备授权-利用deviceid更新设备属性 device/authorize_device", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/device/verify_qrcode", "type": "args", "method": "POST", "return_type": "json", "show_name": "验证设备二维码 device/verify_qrcode", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/device/get_stat", "type": "args", "method": "GET", "return_type": "json", "show_name": "查询设备状态 device/get_stat", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "device_id", "diabled": "", "required": true, "tips": "设备ID", "method": "GET", "type": "string" } ] }, { "name": "https://api.weixin.qq.com/device/bind", "type": "args", "method": "POST", "return_type": "json", "show_name": "设备绑定-绑定成功通知 device/bind", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/device/compel_bind", "type": "args", "method": "POST", "return_type": "json", "show_name": "设备绑定-强制绑定用户和设备 device/compel_bind", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/device/unbind", "type": "args", "method": "POST", "return_type": "json", "show_name": "设备解绑-解绑成功通知 device/unbind", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/device/compel_unbind", "type": "args", "method": "POST", "return_type": "json", "show_name": "设备绑定-强制绑定用户和设备 device/compel_unbind", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/device/get_openid", "type": "args", "method": "GET", "return_type": "json", "show_name": "查询设备绑定的用户 device/get_openid", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "device_type", "diabled": "", "required": true, "tips": "设备类型(公众账号原始ID)", "method": "GET", "type": "string" }, { "name": "device_id", "diabled": "", "required": true, "tips": "设备ID", "method": "GET", "type": "string" } ] }, { "name": "https://api.weixin.qq.com/device/get_bind_device", "type": "args", "method": "GET", "return_type": "json", "show_name": "查询用户绑定的设备 device/get_bind_device", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "openid", "diabled": "", "required": true, "tips": "用户的openid", "method": "GET", "type": "string" } ] }, { "name": "https://api.weixin.qq.com/device/transmsg", "type": "args", "method": "POST", "return_type": "json", "show_name": "推送消息-发送设备消息 device/transmsg", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] }, { "name": "https://api.weixin.qq.com/device/transmsg", "type": "args", "method": "POST", "return_type": "json", "show_name": "推送消息-发送设备状态消息 device/transmsg", "args": [ { "name": "access_token", "diabled": "", "required": true, "tips": "调用接口凭证", "method": "GET", "type": "string", "sync": true }, { "name": "body", "diabled": "", "required": true, "tips": "调用接口的数据json包", "method": "POST", "type": "content", "parse_type":"json" } ] } ] }, { "show_name": "硬件接入消息接口调试", "class_name": "callback_info", "content": [ { "name": "设备向后台发送数据", "show_name": "设备向后台发送数据", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "device_text", "required": true, "tips": "消息类型（设备消息为 device_text）", "method": "GET", "type": "string" }, { "name": "DeviceType", "diabled": "", "required": true, "tips": "设备类型(公众号ID)", "method": "GET", "type": "string" }, { "name": "DeviceID", "diabled": "", "required": true, "tips": "设备ID", "method": "GET", "type": "string" }, { "name": "Content", "diabled": "", "required": true, "tips": "消息类型（文本消息内容）", "method": "GET", "type": "string" }, { "name": "SessionID", "diabled": "", "required": true, "tips": "会话ID（64位整型）", "method": "GET", "type": "num" }, { "name": "MsgId", "diabled": "", "required": true, "tips": "消息类型（消息id，64位整型）", "method": "GET", "type": "num" }, { "name": "OpenID", "diabled": "", "required": true, "tips": "用户账号的OpenID", "method": "GET", "type": "string" } ] }, { "name": "绑定/解绑消息", "show_name": "绑定/解绑消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "device_event", "required": true, "tips": "消息类型（绑定/解绑消息填device_event）", "method": "GET", "type": "string" }, { "name": "Event", "diabled": "", "required": true, "tips": "事件类型（绑定消息填 bind, 解绑消息填 unbind）", "method": "GET", "type": "string" }, { "name": "DeviceType", "diabled": "", "required": true, "tips": "设备类型(公众号ID)", "method": "GET", "type": "string" }, { "name": "DeviceID", "diabled": "", "required": true, "tips": "设备ID", "method": "GET", "type": "string" }, { "name": "Content", "diabled": "", "required": true, "tips": "消息内容", "method": "GET", "type": "string" }, { "name": "SessionID", "diabled": "", "required": true, "tips": "会话ID（64位整型）", "method": "GET", "type": "num" }, { "name": "OpenID", "diabled": "", "required": true, "tips": "用户账号的OpenID", "method": "GET", "type": "string" } ] }, { "name": "请求绑定/请求解绑消息", "show_name": "请求绑定/请求解绑消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "device_event", "required": true, "tips": "消息类型（请求绑定/请求解绑消息填device_event）", "method": "GET", "type": "string" }, { "name": "Event", "diabled": "", "required": true, "tips": "事件类型（请求绑定消息填 request_bind, 请求解绑消息填 request_unbind）", "method": "GET", "type": "string" }, { "name": "DeviceType", "diabled": "", "required": true, "tips": "设备类型(公众号ID)", "method": "GET", "type": "string" }, { "name": "DeviceID", "diabled": "", "required": true, "tips": "设备ID", "method": "GET", "type": "string" }, { "name": "Content", "diabled": "", "required": true, "tips": "消息内容", "method": "GET", "type": "string" }, { "name": "SessionID", "diabled": "", "required": true, "tips": "会话ID（64位整型）", "method": "GET", "type": "num" }, { "name": "OpenID", "diabled": "", "required": true, "tips": "用户账号的OpenID", "method": "GET", "type": "string" } ] }, { "name": "wifi设备连接状态订阅/退订消息", "show_name": "wifi设备连接状态订阅/退订消息", "type": "args", "method": "POST", "args": [ { "name": "URL", "diabled": "", "required": true, "tips": "开发者填写URL，调试时将把消息推送到该URL上", "method": "GET", "type": "string" }, { "name": "ToUserName", "diabled": "", "required": true, "tips": "开发者微信号", "method": "GET", "type": "string" }, { "name": "FromUserName", "diabled": "", "required": true, "tips": "发送方帐号（一个OpenID）", "method": "GET", "type": "string" }, { "name": "CreateTime", "diabled": "", "required": true, "tips": "消息创建时间 （整型）", "method": "GET", "type": "num" }, { "name": "MsgType", "diabled": "device_event", "required": true, "tips": "消息类型（请求绑定/请求解绑消息填device_event）", "method": "GET", "type": "string" }, { "name": "Event", "diabled": "", "required": true, "tips": "事件类型（订阅设备状态 subscribe_status, 退订设备状态 unsubscribe_status）", "method": "GET", "type": "string" }, { "name": "DeviceType", "diabled": "", "required": true, "tips": "设备类型(公众号ID)", "method": "GET", "type": "string" }, { "name": "DeviceID", "diabled": "", "required": true, "tips": "设备ID", "method": "GET", "type": "string" }, { "name": "OpType", "diabled": "", "required": true, "tips": "请求类型(0:退订, 1:心跳(心跳的处理方式跟订阅一样), 2:订阅)", "method": "GET", "type": "num" }, { "name": "OpenID", "diabled": "", "required": true, "tips": "用户账号的OpenID", "method": "GET", "type": "string" } ] } ] } ]
+app.init(configs);
+});
+</script></body></html>
+------=_NextPart_000_0001_01D08329.FE56BEE0--
